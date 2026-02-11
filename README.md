@@ -6,10 +6,18 @@ the Google Fonts GitHub repository via the GitHub API.
 ## Usage
 
 ```
+gem install fifi
+
 fifi install nunito
 fifi install nunito, inter, open sans
 fifi download nunito -o assets/fonts
 fifi download nunito
+```
+
+## Install
+
+```
+gem install fifi
 ```
 
 ## Options
